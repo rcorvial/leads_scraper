@@ -1,0 +1,9 @@
+# Folders
+.spyproject/*
+__pycache__/
+
+# Chrome driver
+*.exe
+
+# Dataset generated
+*.csv
